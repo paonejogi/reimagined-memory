@@ -1,0 +1,13 @@
+1.The Course ChangeLog
+You can view a running list of all changes made to the course right here! Anytime I add 
+(or remove) content, I update the changelog to reflect those changes. 
+>>https://www.notion.so/Web-Developer-Bootcamp-ChangeLog-45e3eab6be724c5f9a4b83c01044e126
+
+2. VS code Extensions Video
+>>https://www.youtube.com/watch?v=rH1RTwaAeGc&t=1s
+
+3. Trello Board (Course Content)
+>>https://trello.com/b/0PVRE1XQ/web-developer-bootcamp
+
+4. Codepen Calculator
+>>https://codepen.io/giana/pen/GJMBEv
